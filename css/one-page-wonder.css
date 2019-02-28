@@ -20,6 +20,9 @@ h6 {
 .hidden{
  display:none; 
 }
+iframe{
+width:100%;	
+}
 #nmmeetups{
 border-collapse:collapse;
 border:2px #6cabdd solid;
