@@ -94,7 +94,10 @@ header.masthead .masthead-content {
   z-index: 1;
   position: relative;
 }
-
+header.masthead .masthead-content .container .containergraphic{
+  position:absolute;
+  left:0;top:-120px;	
+}
 header.masthead .masthead-content .masthead-heading {
   font-size: 4rem;
 }
