@@ -145,9 +145,12 @@ header.masthead .masthead-content .masthead-subheading {
 }
 @media (max-width: 992px) {
 #nmmeetups{
-width:80%;
+width:90%;
 font-size:6pt;
-}	
+}
+.navbar-brand{
+display:none;
+}
 }
 @media (min-width: 992px) {
   header.masthead {
