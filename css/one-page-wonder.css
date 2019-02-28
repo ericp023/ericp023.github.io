@@ -82,7 +82,7 @@ header.masthead .masthead-content .masthead-heading {
 header.masthead .masthead-content .masthead-subheading {
   font-size: 2rem;
 }
-
+/*
 header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
@@ -118,7 +118,7 @@ header.masthead .bg-circle-4 {
   top: -5rem;
   right: 35%;
 }
-
+*/
 @media (min-width: 992px) {
   header.masthead {
     padding-top: calc(10rem + 55px);
