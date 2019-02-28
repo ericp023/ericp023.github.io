@@ -148,7 +148,7 @@ header.masthead .masthead-content .masthead-subheading {
 width:90%;
 font-size:6pt;
 }
-.navbar-brand{
+#navbarResponsive{
 display:none;
 }
 }
