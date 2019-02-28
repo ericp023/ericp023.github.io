@@ -20,6 +20,27 @@ h6 {
 .hidden{
  display:none; 
 }
+#nmmeetups{
+border-collapse:collapse;
+border:2px #6cabdd solid;
+margin-top:15px;
+width:490px;
+height:650px;
+padding:5px 5px 5px 5px;
+}
+#nmmeetups td{
+padding: 2px 2px 2px 2px;
+border-top: 1px #1c2c5b solid;	
+	
+}
+#nmmeetups th{
+padding: 2px 2px 2px 2px;
+
+}
+.tablelogo{
+	width:25px;
+	
+}
 .btn-xl {
   text-transform: uppercase;
   padding: 1.5rem 3rem;
@@ -164,3 +185,4 @@ header.masthead .bg-circle-4 {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
 }
+
